@@ -1,6 +1,6 @@
 def my_select(collection)
  new_array = []
- collection.select {|word| word.size == 5 }
+ collection.select {|num| puts num}
  end
  return new_array
 end
