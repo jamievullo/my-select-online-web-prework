@@ -3,6 +3,7 @@ def my_select(collection)
  i = 0 
  while i < collection.length 
    num = collection[i]
+   new_array << 
  
  
  i += 1 
