@@ -9,5 +9,5 @@ def my_select(collection)
  
  i += 1 
  end
- new_array
+ return new_array
 end
